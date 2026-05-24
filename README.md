@@ -1,6 +1,6 @@
-# Yara — WhatsApp RAG Chatbot for Buenos Aires
+# Gem - WhatsApp RAG Chatbot 
 
-**Yara** is a multilingual WhatsApp chatbot that recommends events, bars, restaurants, cafés, clubs, cultural centers and communities in **Buenos Aires**. It uses a **RAG (Retrieval-Augmented Generation)** pipeline built on **OpenAI embeddings + Milvus vector search** for events, and **PostgreSQL keyword search** for businesses, all wrapped in a Twilio WhatsApp webhook.
+**Gem** is a multilingual WhatsApp chatbot that recommends events, bars, restaurants, cafés, clubs, cultural centers and communities in **Buenos Aires**. It uses a **RAG (Retrieval-Augmented Generation)** pipeline built on **OpenAI embeddings + Milvus vector search** for events, and **PostgreSQL keyword search** for businesses, all wrapped in a Twilio WhatsApp webhook.
 
 ---
 
